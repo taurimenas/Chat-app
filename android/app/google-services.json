@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "382852143992",
+    "firebase_url": "https://chat-app-b8b83.firebaseio.com",
+    "project_id": "chat-app-b8b83",
+    "storage_bucket": "chat-app-b8b83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382852143992:android:ba6e097d9108d5f4dd868d",
+        "android_client_info": {
+          "package_name": "co.Tauras.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382852143992-hggpnub38puu0c340s65gh8h1nm52va4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyiC7ZUY8PlyJTA_KWsdtO8tAczaiHP0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382852143992-hggpnub38puu0c340s65gh8h1nm52va4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
